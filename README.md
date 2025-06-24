@@ -30,4 +30,4 @@ Gravei um vídeo para mostrar o teste funcionando: [Assista aqui](https://www.yo
 
 Fique à vontade para analisar o projeto e verificar todas as partes do código. Qualquer dúvida ou informação necessária para avaliação, estou à disposição para esclarecer.
 
-Se quiser, pode visitar o meu perfil no GitHub para conhecer mais dos meus projetos e do meu trabalho.
+Sinta-se à vontade para visitar meu perfil do Gitghub e olhar os meus projetos.
