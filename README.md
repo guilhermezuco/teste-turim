@@ -20,7 +20,11 @@ Este projeto faz parte de um teste prático que realizei em uma entrevista. É a
 
 ## O que não foi feito
 
-- Não consegui implementar a opção de adicionar 'filho' no formulário e no banco de dados. Em compensação, procurei melhorar o design e tornar a navegação intuitiva para o usuário.
+- Não consegui implementar a opção de adicionar "filho" no formulário e no banco de dados. Em compensação, procurei melhorar o design e tornar a navegação intuitiva para o usuário.
+
+## Vídeo de Demonstração
+
+Gravei um vídeo para mostrar o teste funcionando: [Assista aqui](https://www.youtube.com/watch?v=CgR2aQiojtU)
 
 ## Considerações Finais
 
