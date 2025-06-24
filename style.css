@@ -1,0 +1,49 @@
+body{
+    background-color: #6d6d6d;
+}
+
+#jsonOutput {
+    min-height: 320px;
+    font-size: 15px;
+}
+
+.card-body{
+    background-color: #e4e4e4;
+}
+
+ .card-header{
+    background-color: #113A56;
+ }
+ 
+.card {
+    border: none;
+}
+
+.tabela-responsiva {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.btn-lg {
+    padding: 0.5rem 1.7rem;
+}
+
+.input-group {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.btn-laranja{
+    background-color: #FF6700;
+}
+
+.btn-remover {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.8rem;
+    margin-left: 10px;
+}
+
+.nome-cell {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
