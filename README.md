@@ -16,11 +16,11 @@ Este projeto faz parte de um teste prático que realizei em uma entrevista. É a
 
 - Desenvolvi toda a estrutura de front-end e criei a interface com as cores e o logo da empresa para tornar a apresentação mais clara e profissional.
 - Implementei as funcionalidades de gravação e leitura de usuários no banco de dados.
-- Fiz a conexão entre front-end e back-end utilizando PHP e JavaScript, mesmo não tendo muito conhecimento inicial nessas linguagens. Para isso, precisei realizar pesquisas e testes para garantir a entrega.
+- Fiz a conexão entre front-end e back-end utilizando PHP e JavaScript. Não tendo muito conhecimento com nessas linguagens, então precisei realizar pesquisas e testes para garantir a entrega.
 
 ## O que não foi feito
 
-- Não consegui implementar a opção de adicionar "filho" no formulário e no banco de dados. Em compensação, procurei melhorar o design e tornar a navegação intuitiva para o usuário.
+- Não consegui implementar a opção de adicionar "filho" no formulário e no banco de dados. Para compensar, resolvi estilizar a interface do projeto com as cores e logotipo da empresa.
 
 ## Vídeo de Demonstração
 
